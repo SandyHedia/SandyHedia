@@ -42,11 +42,6 @@ Welcome to my GitHub! I'm an AI Engineer and Data Scientist with a passion for b
 
 ---
 
-### 📊 GitHub Stats
-
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandyHedia&show_icons=true&theme=radical)
-
----
 
 <!--
 **SandyHedia/SandyHedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
