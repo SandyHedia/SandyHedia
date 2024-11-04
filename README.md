@@ -23,12 +23,19 @@ Welcome to my GitHub! I'm an AI Engineer and Data Scientist with a passion for b
 ---
 
 ### 📈 Skills & Interests
-- **Machine Learning & Deep Learning**: Classification, Object Detection, NLP, Computer Vision
+- **Programming**: Python, Java
+- **Machine Learning Libraries**: scikit-learn, PyTorch, TensorFlow
+- **Machine Learning & Deep Learning**: Classification, Object Detection, NLP, Computer Vision, Image segmentation 
 - **Model Deployment**: Flask, Google Cloud Platform
-- **NLP Tools**: NLTK, spaCy, GloVe, XLNet, DistilBERT, AraBERT
-- **Vision Models**: YOLOv10, Vision Transformers, VGG16, CNNs
+- **NLP**: Hugging Face, NLTK, spaCy
+- **Computer Vision**: OpenCV, YOLO, Vision Transformer
 
 ---
+### 🚀 My Experience:
+- **Machine Learning & Deep Learning**: Proficient in scikit-learn, PyTorch, TensorFlow, and Hugging Face.
+- **Natural Language Processing**: Experienced in text classification, semantic search, and solving homonym issues using advanced NLP models like BERT, XLNet, DistilBERT, AraBERT and BiLSTM.
+- **Computer Vision**: Worked on projects like object detection, image classification, image segmentation, and denoising autoencoders using CNNs, VGG16, Vision Transformers, and YOLO.
+- **Deployment & Cloud Services**: Deployed ML models with Flask, used GCP for cloud infrastructure, and integrated GPS with Garmin Fleet Series.
 
 ### 📂 Projects
 
@@ -39,9 +46,10 @@ Welcome to my GitHub! I'm an AI Engineer and Data Scientist with a passion for b
 | **Arabic POS Tagging** | Leveraged BiLSTM and AraBERT to create a POS tagging model for Arabic texts. | BiLSTM, AraBERT, UD_Arabic-PADT |
 | **Fake News Detection** | Developed and deployed a fake news classifier using SVM, RNN, and BERT models. | PyTorch, scikit-learn, Hugging Face |
 | **Cat vs. Dog Classification** | Achieved 99.68% accuracy on classification with ViT. | Vision Transformers, PyTorch |
+| **Homonym Problem in NLP** | Solving contextual and sentiment-related issues with advanced models like DistilBERT and XLNet. | DistilBERT,  XLNet, BiLSTM |
+| **license plate recognition** | Fine-tuning YOLOv10 for license plate recognition. | YOLOv10, OCR |
 
 ---
-
 
 <!--
 **SandyHedia/SandyHedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
