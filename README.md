@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm an AI Engineer and Data Scientist with a passion for b
 | **Fake News Detection** | Developed and deployed a fake news classifier using SVM, RNN, and BERT models. | PyTorch, scikit-learn, Hugging Face |
 | **Cat vs. Dog Classification** | Achieved 99.68% accuracy on classification with ViT. | Vision Transformers, PyTorch |
 | **Homonym Problem in NLP** | Solving contextual and sentiment-related issues with advanced models like DistilBERT and XLNet. | DistilBERT,  XLNet, BiLSTM |
-| **license plate recognition** | Fine-tuning YOLOv10 for license plate recognition. | YOLOv10, OCR |
+| **Egyption license plate recognition** | Fine-tuning YOLOv10 for license plate recognition. | YOLOv10, OCR |
 
 ---
 
